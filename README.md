@@ -1,4 +1,4 @@
-![Commit activity](https://img.shields.io/github/commit-activity/y/djpbarry/Cell_spot_quant?style=plastic) ![GitHub](https://img.shields.io/github/license/djpbarry/Cell_spot_quant?color=green&style=plastic)
+![Commit activity](https://img.shields.io/github/commit-activity/y/FrancisCrickInstitute/Cell_spot_quant?style=plastic) ![GitHub](https://img.shields.io/github/license/FrancisCrickInstitute/Cell_spot_quant?color=green&style=plastic)
 
 # Overview
 This repository contains a series of ImageJ/FIJI macros for the automation of **segmentation and analysis of cellular objects and intracellular spots within 3D microscopy images**. The main macro,  `spatial_analysis.ijm`, takes two input images: a **probability map** (produced with [ilastik](https://www.ilastik.org/) using `MyProject_pix_pred.ilp`) and a **raw intensity image**.
